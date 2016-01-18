@@ -7,6 +7,13 @@ tags:
  - meta
  - bb-8
  - blog
+carousel:
+ - image: /assets/bb-8/frame.png
+ - image: /assets/bb-8/frame_with_mounts.png
+ - image: /assets/bb-8/frame_with_disk_rings.png
+ - image: /assets/bb-8/frame_with_disks.png
+ - image: /assets/bb-8/frame_with_complete_shell.png
+ - image: /assets/bb-8/shell_details_no_panels.png
 ---
 
 Hello there!
