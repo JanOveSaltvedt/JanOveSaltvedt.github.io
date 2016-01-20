@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: Site Title
+title: Saltvedt Tech
 locale: en_US
-description: Describe your website here.
+description:  A blog with a focus on Jan Ove Saltvedt's personal projects. If I bother documenting some of my builds, it may as well be shared with the rest of the world.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://index.ed.ntnu.no:4000
+
+cdn: http://dl.dropboxusercontent.com/u/10136865/saltvedt.tech
 
 # Jekyll configuration
 
@@ -31,15 +33,19 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
+# Allow comments by default
+comments: true
+
 # Site owner
+
 owner:
-  name: Your Name
+  name: Jan Ove Saltvedt
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
+  email: jan.ove@saltvedt.tech
+  disqus-shortname: saltvedttech
+  twitter: SaltvedtTech
   facebook: #username
-  github: #username
+  github: JanOveSaltvedt
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
