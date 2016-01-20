@@ -5,7 +5,7 @@ locale: en_US
 description:  A blog with a focus on Jan Ove Saltvedt's personal projects. If I bother documenting some of my builds, it may as well be shared with the rest of the world.
 logo: site-logo.png
 search: true
-url: http://index.ed.ntnu.no:4000
+url: http://saltvedt.tech
 
 cdn: http://dl.dropboxusercontent.com/u/10136865/saltvedt.tech
 
